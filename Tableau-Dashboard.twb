@@ -26,7 +26,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='cleaned_data' name='textscan.0lesij218zidkz16n2mmk1yymvrb'>
-            <connection class='textscan' directory='/Users/milanmanoj/Documents/My Projects/Customer Behaviour Analysis' filename='cleaned_data.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/hameedvs/Documents/My Projects/Customer Behaviour Analysis' filename='cleaned_data.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.0lesij218zidkz16n2mmk1yymvrb' name='cleaned_data.csv' table='[cleaned_data#csv]' type='table'>
